@@ -17,6 +17,8 @@ The MySQL database is locally hosted on XAMPP Control Panel with below details:
 * URL: https://localhost:3306/
 * ID: root
 * Password: Keep it blank as ""
+* Database Name: DynamicWebProject
+* Table Name: 'registration' with 5 attributes as mentioned in the program.
 
 ## Steps to run:
 * Open Eclipse IDE <br/>
