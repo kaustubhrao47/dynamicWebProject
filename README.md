@@ -24,7 +24,7 @@ The MySQL database is locally hosted on XAMPP Control Panel with below details:
 * Create a new "Dynamic Web Project" <br/>
 **_NOTE:_** Make sure you have checked "Generate web.xml deployment descriptor" <br/>
 * Create servlet pages, HTML file and JSP file. Copy paste all the codes as per below file structure. <br/>
-![alt text](https://github.com/kaustubhrao47/designPatternDemoJava/blob/master/file-structure-dynamic-web-project.jpg?raw=true) <br/>
+![alt text](https://github.com/kaustubhrao47/dynamicWebProjectJava/blob/master/file-structure-dynamic-web-project.jpg?raw=true) <br/>
 * Add the installed server to the project
 * Run "index.html" on the server.
 * Click: http://localhost:8080/DynamicWebProject/ (with 'Apache Tomcat' server and project name as 'DynamicWebProject').
