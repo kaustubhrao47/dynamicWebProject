@@ -10,7 +10,7 @@ Database: MySQL hosted on XAMPP Control Panel
 ## What is this?
 &nbsp;&nbsp; This repository contains practical implementation example for dynamic web project concept in java. <br/>
 
-## Working:
+## Working
 &nbsp;&nbsp; The project focuses on user registration on HTML page and then forwards this data to MySQL database in connection with Java Servlet.
 The user again logins on a JSP page and the data is verified using previously stored data and once verified, user is redirected to a live URL.
 The MySQL database is locally hosted on XAMPP Control Panel with below details:
@@ -30,6 +30,13 @@ The MySQL database is locally hosted on XAMPP Control Panel with below details:
 * Add the installed server to the project
 * Run "index.html" on the server.
 * Click: http://localhost:8080/DynamicWebProject/ (with 'Apache Tomcat' server and project name as 'DynamicWebProject').
+
+## Download Links
+* Apache Tomcat server: https://tomcat.apache.org/download-80.cgi
+* XAMPP Control Panel: https://www.apachefriends.org/download.html
+* Eclipse IDE: https://www.eclipse.org/downloads/packages/release/neon/3/eclipse-ide-java-ee-developers
+* Java Development Kit: https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html
+* Java Runtime Environment: https://www.oracle.com/java/technologies/javase-jre8-downloads.html
 
 ## Contributing
 &nbsp;&nbsp; Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. <br/>
