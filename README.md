@@ -1,6 +1,6 @@
 # dynamicWebProjectJava
 
-Technology: Java, JSP, HTML5, CSS3, MySQL <br/>
+Technology: Java, JSP(Java Servlet Page), HTML5, CSS3, MySQL <br/>
 IDE: Eclipse IDE for Enterprise Java Developers ; Version: 2020-06 (4.16.0) <br/>
 JDK: 12 <br/>
 JRE: 1.8.0 <br/>
